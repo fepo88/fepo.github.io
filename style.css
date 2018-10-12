@@ -19,7 +19,7 @@ img.displayed {
 	width: 50%;
 	box-shadow: 0 8px 6px -6px white;
 }
-.clear.btn-primary{
+.clear {
 	text-align: center;
 	position: relative;
 	top: 3px;
